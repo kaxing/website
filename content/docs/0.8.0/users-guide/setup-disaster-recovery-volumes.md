@@ -16,7 +16,7 @@ to use backup volume name as disaster volume name.
 volume X, and incrementally restore it to the volume Y.
 5. If volume X is down, users can activate volume Y immediately. Once activated, volume Y will become a
 normal Longhorn volume.
-    5.1. Please note that deactivating a normal volume is not allowed.
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;5.1. Please note that deactivating a normal volume is not allowed.
 
 ## Activating DRVs {#activating}
 
